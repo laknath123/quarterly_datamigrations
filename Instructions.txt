@@ -1,0 +1,8 @@
+1. Your first step is to ensure that the items in the input folder are only items from this quarter
+2. Once you get this quarters PR's save them in the  inputs folder
+2. There should be only 5 files in this folder corresponding to the 5 banks for this quarter
+3. Next open the R script called data_loading. R and click on the icon that is in the picture called "Source" which will run the script
+4. Now if you open out a folder called outputs you should be able to see a list of excel files corresponding to each of the Financial statements of the bank
+that you can update the database with
+5. Next open up the DB browser
+
